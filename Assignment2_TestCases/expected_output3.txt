@@ -1,0 +1,2 @@
+Syntax analysis failed
+syntax_analyzer_error - Missing operand before operator at line 6

@@ -1,0 +1,13 @@
+/* 
+    Test Case
+    Block comment 
+*/
+if (choice <= 1.5) {
+    choice = 1.5;
+    for(String statement in file){
+        end = ";;
+    }
+    while(function_exists()){
+        apply_encapsulation_rules();
+    }
+}

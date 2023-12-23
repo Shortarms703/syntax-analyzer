@@ -1,0 +1,11 @@
+// Test Case
+if(language == "Java") {
+    choice = 1.5;
+    for(String statement in file){
+        end = ";";
+	test = 1 + *;
+    }
+    while(function_exists()){
+        apply_encapsulation_rules();
+    }
+}

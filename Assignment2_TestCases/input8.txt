@@ -1,0 +1,14 @@
+/* 
+    Test Case
+    Block comment 
+*/
+if(number > 3) {
+    choice = 1.5;
+    for(String statement in file){
+        end = ";";
+        test = 1 + 2 5 ;
+    }
+    while(function_exists()){
+        apply_encapsulation_rules();
+    }
+}
